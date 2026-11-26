@@ -1,5 +1,3 @@
-# gkandil.github.io
-
 # Welcome to the website of gkandil
 
 # Starter Tech profile for Galal Kandil
